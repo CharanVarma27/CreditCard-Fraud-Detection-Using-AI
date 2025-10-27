@@ -80,8 +80,6 @@ A Streamlit dashboard and Flask API make the solution deployment-ready.
 - `reports/` – final report PDF  
 - `requirements.txt`, `.gitignore`, `LICENSE`  
 
-## License  
-This project is released under the [MIT License](LICENSE).
 
 ## 📬 Contact  
 For any questions or collaboration, reach me at: **charansai2707@gmail.com**  
