@@ -1,6 +1,5 @@
 # AI-Powered Credit Card Fraud Detection System  
 **Author:** Pachamatla Charan Sai Venkata Varma  
-**University:** Anurag University – Dept. of Electronics & Computer Engineering  
 **Project Date:** 2025  
 
 ## Project Overview  
@@ -23,10 +22,7 @@ A Streamlit dashboard and Flask API make the solution deployment-ready.
 - **Dataset:** Kaggle – “Credit Card Fraud Detection (Europe, 2013)”  
 - **Deployment:** Model saved via joblib, API endpoint, dashboard UI  
 
-## Project Structure  
-```
-<Insert the folder structure you used>
-```
+
 
 ## Steps Involved  
 1. **Data Preprocessing** – Scale `Time` and `Amount`, drop time/amount after scaling.  
